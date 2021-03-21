@@ -1,4 +1,5 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css");
 body {
   background: #eeaeca;
   background: radial-gradient(circle, #eeaeca 0%, #e4afcd 7%, #94bbe9 100%);
